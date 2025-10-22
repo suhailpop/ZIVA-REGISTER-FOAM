@@ -110,7 +110,7 @@
     <p>We’re excited to have you join our catering and events team. Fill the form to register as a team member for upcoming ZIVA projects.</p>
     <div style="display:flex;gap:10px;margin-top:12px;align-items:center">
       <button class="btn btn-primary" id="startBtn">Start Your Journey</button>
-      <a href="https://askakicks.github.io/KASA-CATERING-AND-EVENTS-LABOURERS-REGISTRATION-FROM-/" target="_blank" class="btn btn-ghost">View Original</a>
+      <a href="https://github.com/suhailpop/ZIVA-REGISTER-FOAM.git target="_blank" class="btn btn-ghost">View Original</a>
     </div>
   </aside>
 </div>
