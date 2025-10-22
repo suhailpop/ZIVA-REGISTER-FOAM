@@ -106,7 +106,7 @@
  <aside>
 <div style="display:flex;gap:10px;margin-top:12px;align-items:center">
       <button class="btn btn-primary" id="startBtn">Start Your Journey</button> 
-  <a https:github.com.suhailpop.ZIVA-REGISTER-FOAM.git>he</a>
+  <a href="https://github.com/suhailpop/ZIVA-REGISTER-FOAM.git">he💵</a>
     </div>
   </aside>
   <aside class="hero">
