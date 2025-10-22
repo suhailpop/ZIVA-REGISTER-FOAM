@@ -193,10 +193,10 @@ Ziva website
   <div class="wrap">
     <!-- Left: Form -->
     <section class="card" aria-labelledby="form-title">
-      <div class="brand" role="img" aria-label="KASA Catering Logo">
+      <div class="brand" role="img" aria-label="ziva Catering Logo">
         <div class="logo">ZIVA</div>
         <div>
-          <h1>KASA</h1>
+          <h1>ziva</h1>
           <p>Catering and Events — Team Registration</p>
         </div>
       </div>
