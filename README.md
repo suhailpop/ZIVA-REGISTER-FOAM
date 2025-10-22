@@ -104,7 +104,12 @@
       <div class="note">NB: Registration is mandatory. Non-registered individuals will not be assigned work.</div>
     </form>
   </section>
-
+<div style="display:flex;gap:10px;margin-top:12px;align-items:center">
+      <button class="btn btn-primary" id="startBtn">Start Your Journey</button>
+      <a>View Original</a>
+    </div>
+  </aside>
+</div>
   <aside class="hero">
     <h2>Welcome to ZIVA Family!</h2>
     <p>We’re excited to have you join our catering and events team. Fill the form to register as a team member for upcoming ZIVA projects.</p>
